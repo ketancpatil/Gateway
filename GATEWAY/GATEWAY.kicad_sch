@@ -17418,7 +17418,7 @@
 				)
 			)
 		)
-		(property "Value" "203 Ohm"
+		(property "Value" "20k Ohm"
 			(at 143.51 177.8 90)
 			(effects
 				(font
@@ -17880,7 +17880,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Rect_L10.3mm_W5.0mm_P7.50mm_MKS4"
+		(property "Footprint" "Capacitor_THT:C_Rect_L10.3mm_W5.7mm_P7.50mm_MKS4"
 			(at 72.0852 44.45 0)
 			(effects
 				(font
@@ -18559,7 +18559,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "203 Ohm"
+		(property "Value" "20k Ohm"
 			(at 143.764 166.37 90)
 			(effects
 				(font

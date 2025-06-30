@@ -467,7 +467,7 @@
       "idf": "",
       "netlist": "",
       "plot": "Microcontroller/",
-      "pos_files": "",
+      "pos_files": "pos/",
       "specctra_dsn": "",
       "step": "",
       "svg": "",
