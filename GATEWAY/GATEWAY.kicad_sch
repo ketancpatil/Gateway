@@ -12,6 +12,502 @@
 		(comment 1 "Ketan Patil")
 	)
 	(lib_symbols
+		(symbol "7491195112:WE-POEH_EPQ13"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "T"
+				(at 0.13 6.15 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Value" "WE-POEH_EPQ13"
+				(at -5.31 -10.7 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "WE-POEH_EPQ13:WE-POEH_EPQ13"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "WE-POEH_EPQ13_0_0"
+				(arc
+					(start -2.54 -7.62)
+					(mid -1.9077 -6.985)
+					(end -2.54 -6.35)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start -2.54 -6.35)
+					(mid -1.9077 -5.715)
+					(end -2.54 -5.08)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start -2.54 -5.08)
+					(mid -1.9077 -4.445)
+					(end -2.54 -3.81)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start -2.54 -3.81)
+					(mid -1.9077 -3.175)
+					(end -2.54 -2.54)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center -2.54 -3.0163)
+					(radius 0.12)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start -2.54 0)
+					(mid -1.9077 0.635)
+					(end -2.54 1.27)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start -2.54 1.27)
+					(mid -1.9077 1.905)
+					(end -2.54 2.54)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start -2.54 2.54)
+					(mid -1.9077 3.175)
+					(end -2.54 3.81)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start -2.54 3.81)
+					(mid -1.9077 4.445)
+					(end -2.54 5.08)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center -2.54 4.6038)
+					(radius 0.12)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.3 4.46) (xy -0.3 -7)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.3 4.46) (xy 0.3 -7)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 2.54 -6.35)
+					(mid 1.9077 -6.985)
+					(end 2.54 -7.62)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 2.54 -5.08)
+					(mid 1.9077 -5.715)
+					(end 2.54 -6.35)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 2.54 -3.81)
+					(mid 1.9077 -4.445)
+					(end 2.54 -5.08)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 2.54 -2.54)
+					(mid 1.9077 -3.175)
+					(end 2.54 -3.81)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 2.54 1.27)
+					(mid 1.9077 0.635)
+					(end 2.54 0)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 2.54 2.54)
+					(mid 1.9077 1.905)
+					(end 2.54 1.27)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 2.54 3.81)
+					(mid 1.9077 3.175)
+					(end 2.54 2.54)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 2.54 4.6038)
+					(radius 0.12)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 2.54 5.08)
+					(mid 1.9077 4.445)
+					(end 2.54 3.81)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 2.8575 -3.0163)
+					(radius 0.12)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(text "N1"
+					(at -7 2.5 0)
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+						(justify left bottom)
+					)
+				)
+				(text "N2"
+					(at 5 2.5 0)
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+						(justify left bottom)
+					)
+				)
+				(text "N3"
+					(at 5 -5 0)
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+						(justify left bottom)
+					)
+				)
+				(text "N4"
+					(at -7 -5 0)
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+						(justify left bottom)
+					)
+				)
+				(pin passive line
+					(at -5.08 5.08 0)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 -2.54 180)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "10"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -2.54 0)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -7.62 0)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 -7.62 180)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 5.08 180)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "9"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "Connector:Conn_01x02_Pin"
 			(pin_names
 				(offset 1.016) hide)
@@ -10328,514 +10824,6 @@
 				)
 			)
 		)
-		(symbol "WE-FB_EP7_SCH1:WE-FB_EP7_SCH1"
-			(pin_names
-				(offset 1.016)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "T"
-				(at 0.03 8.19 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "Value" "WE-FB_EP7_SCH1"
-				(at -3.17 -9.26 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Footprint" "WE-FB_EP7_SCH1:WE-FB_EP7_P11.68"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "MF" "Würth Elektronik"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Description_1" "\n                        \n                            Flyback Converters For For DC/DC Converters SMPS Transformer 1500Vrms Isolation  Surface Mount\n                        \n"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Package" "None"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Price" "None"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "SnapEDA_Link" "https://www.snapeda.com/parts/750370058/W%25C3%25BCrth+Elektronik+Midcom/view-part/?ref=snap"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MP" "750370058"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Availability" "In Stock"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Check_prices" "https://www.snapeda.com/parts/750370058/W%25C3%25BCrth+Elektronik+Midcom/view-part/?ref=eda"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(symbol "WE-FB_EP7_SCH1_0_0"
-				(arc
-					(start -2.54 -7.62)
-					(mid -1.9077 -6.985)
-					(end -2.54 -6.35)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start -2.54 -6.35)
-					(mid -1.9077 -5.715)
-					(end -2.54 -5.08)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start -2.54 -5.08)
-					(mid -1.9077 -4.445)
-					(end -2.54 -3.81)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start -2.54 -3.81)
-					(mid -1.9077 -3.175)
-					(end -2.54 -2.54)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start -2.54 2.54)
-					(mid -1.9077 3.175)
-					(end -2.54 3.81)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start -2.54 3.81)
-					(mid -1.9077 4.445)
-					(end -2.54 5.08)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start -2.54 5.08)
-					(mid -1.9077 5.715)
-					(end -2.54 6.35)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start -2.54 6.35)
-					(mid -1.9077 6.985)
-					(end -2.54 7.62)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center -2.4575 7.0263)
-					(radius 0.12)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center -2.44 -3.1438)
-					(radius 0.12)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -0.3 -6) (xy -0.3 6)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.3 -6) (xy 0.3 6)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 2.44 1.9363)
-					(radius 0.12)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 2.54 -1.27)
-					(mid 1.9077 -1.905)
-					(end 2.54 -2.54)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 2.54 0)
-					(mid 1.9077 -0.635)
-					(end 2.54 -1.27)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 2.54 1.27)
-					(mid 1.9077 0.635)
-					(end 2.54 0)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 2.54 2.54)
-					(mid 1.9077 1.905)
-					(end 2.54 1.27)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(text "AUX"
-					(at -7 -5 0)
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-						(justify left bottom)
-					)
-				)
-				(text "PRI"
-					(at -7 5 0)
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-						(justify left bottom)
-					)
-				)
-				(text "SEC"
-					(at 5 0 0)
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-						(justify left bottom)
-					)
-				)
-				(pin passive line
-					(at -5.08 -7.62 0)
-					(length 2.54)
-					(name "~"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -2.54 0)
-					(length 2.54)
-					(name "~"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 7.62 0)
-					(length 2.54)
-					(name "~"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 2.54 0)
-					(length 2.54)
-					(name "~"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 2.54 180)
-					(length 2.54)
-					(name "~"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 2.54 180)
-					(length 2.54)
-					(name "~"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "6"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 -2.54 180)
-					(length 2.54)
-					(name "~"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "7"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 -2.54 180)
-					(length 2.54)
-					(name "~"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "8"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-			)
-		)
 		(symbol "power:GND"
 			(power)
 			(pin_numbers hide)
@@ -11534,6 +11522,12 @@
 		(uuid "a0a0eea0-1819-4128-a880-43f2b45b2072")
 	)
 	(junction
+		(at 170.18 53.34)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a13480c1-4cdf-4bf2-9b19-502ec6012558")
+	)
+	(junction
 		(at 180.34 74.93)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -11634,6 +11628,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c46ba046-531c-4dd0-95bb-6dd3a54b1ecb")
+	)
+	(junction
+		(at 172.72 45.72)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c713d977-8fb9-4285-b6f3-92bd3d28ac74")
 	)
 	(junction
 		(at 300.99 69.85)
@@ -11911,7 +11911,7 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 53.34) (xy 182.88 53.34)
+			(xy 166.37 53.34) (xy 170.18 53.34)
 		)
 		(stroke
 			(width 0)
@@ -12088,16 +12088,6 @@
 			(type default)
 		)
 		(uuid "12b4eaad-e644-41ad-8a18-09feeb10fee5")
-	)
-	(wire
-		(pts
-			(xy 166.37 50.8) (xy 179.07 50.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "12b58611-0ccd-4416-8ecd-f9272d7d951f")
 	)
 	(wire
 		(pts
@@ -12901,16 +12891,6 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 63.5) (xy 156.21 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5bba0037-d871-4bfc-b2ac-e8a2ac6e1498")
-	)
-	(wire
-		(pts
 			(xy 241.3 189.23) (xy 241.3 186.69)
 		)
 		(stroke
@@ -12991,6 +12971,16 @@
 	)
 	(wire
 		(pts
+			(xy 172.72 40.64) (xy 172.72 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6141a1f6-c3c9-4ab0-805a-b812c220baa9")
+	)
+	(wire
+		(pts
 			(xy 191.77 82.55) (xy 191.77 85.09)
 		)
 		(stroke
@@ -13058,16 +13048,6 @@
 			(type default)
 		)
 		(uuid "6b06e6c1-d86a-45da-bcb2-20705ccb1feb")
-	)
-	(wire
-		(pts
-			(xy 179.07 50.8) (xy 179.07 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6b33068f-1830-4a88-87a3-265b412397be")
 	)
 	(wire
 		(pts
@@ -13311,6 +13291,16 @@
 	)
 	(wire
 		(pts
+			(xy 170.18 45.72) (xy 170.18 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "81075c1f-ac0c-4d3b-af70-c4e2a35f0cf5")
+	)
+	(wire
+		(pts
 			(xy 273.05 248.92) (xy 266.7 248.92)
 		)
 		(stroke
@@ -13338,6 +13328,16 @@
 			(type default)
 		)
 		(uuid "82644287-6985-41cf-a77a-e7504d617cd8")
+	)
+	(wire
+		(pts
+			(xy 166.37 48.26) (xy 172.72 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "827ee345-f04c-4566-937c-50bceba853a0")
 	)
 	(wire
 		(pts
@@ -13771,6 +13771,16 @@
 	)
 	(wire
 		(pts
+			(xy 170.18 53.34) (xy 182.88 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a5d310a6-8d40-4a32-a8c5-12efde602789")
+	)
+	(wire
+		(pts
 			(xy 285.75 189.23) (xy 289.56 189.23)
 		)
 		(stroke
@@ -13941,7 +13951,7 @@
 	)
 	(wire
 		(pts
-			(xy 151.13 46.99) (xy 151.13 50.8)
+			(xy 151.13 46.99) (xy 151.13 48.26)
 		)
 		(stroke
 			(width 0)
@@ -14141,7 +14151,7 @@
 	)
 	(wire
 		(pts
-			(xy 151.13 50.8) (xy 156.21 50.8)
+			(xy 151.13 48.26) (xy 156.21 48.26)
 		)
 		(stroke
 			(width 0)
@@ -14471,6 +14481,16 @@
 	)
 	(wire
 		(pts
+			(xy 166.37 45.72) (xy 170.18 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d28114a1-63fa-43f9-9207-4799f568c150")
+	)
+	(wire
+		(pts
 			(xy 350.52 175.26) (xy 358.14 175.26)
 		)
 		(stroke
@@ -14681,6 +14701,16 @@
 	)
 	(wire
 		(pts
+			(xy 156.21 53.34) (xy 156.21 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e3f36b17-04c1-4812-ae34-21145222d21b")
+	)
+	(wire
+		(pts
 			(xy 378.46 167.64) (xy 378.46 172.72)
 		)
 		(stroke
@@ -14711,6 +14741,16 @@
 	)
 	(wire
 		(pts
+			(xy 166.37 40.64) (xy 172.72 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e6f671f0-5f94-4440-90bc-001f802a8080")
+	)
+	(wire
+		(pts
 			(xy 361.95 167.64) (xy 367.03 167.64)
 		)
 		(stroke
@@ -14738,16 +14778,6 @@
 			(type default)
 		)
 		(uuid "e85e1fc8-f48b-4b33-925f-cc5ca55cf20c")
-	)
-	(wire
-		(pts
-			(xy 166.37 45.72) (xy 172.72 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e921d3d2-4fd9-4f99-9d63-13ed47d0082d")
 	)
 	(wire
 		(pts
@@ -14868,6 +14898,16 @@
 			(type default)
 		)
 		(uuid "eded3ecf-78f2-4e18-9536-34cff4c6f3de")
+	)
+	(wire
+		(pts
+			(xy 172.72 48.26) (xy 172.72 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ee4b6c5c-188a-4a9c-b11e-cdc3e260542b")
 	)
 	(wire
 		(pts
@@ -15783,173 +15823,6 @@
 		(uuid "fb257f40-3dd1-40fc-b594-a770901c0811")
 	)
 	(symbol
-		(lib_id "WE-FB_EP7_SCH1:WE-FB_EP7_SCH1")
-		(at 161.29 48.26 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "00618cb6-9118-4398-b483-4808ccd0126d")
-		(property "Reference" "T1"
-			(at 161.8303 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "WE-FB_EP7_SCH1"
-			(at 161.8303 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "WE-FB_EP7_SCH1:WE-FB_EP7_P11.68"
-			(at 161.29 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 161.29 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 161.29 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MF" "Würth Elektronik"
-			(at 161.29 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Description_1" "\n                        \n                            Flyback Converters For For DC/DC Converters SMPS Transformer 1500Vrms Isolation  Surface Mount\n                        \n"
-			(at 161.29 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Package" "None"
-			(at 161.29 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Price" "None"
-			(at 161.29 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/750370058/W%25C3%25BCrth+Elektronik+Midcom/view-part/?ref=snap"
-			(at 161.29 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MP" "750370058"
-			(at 161.29 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Availability" "In Stock"
-			(at 161.29 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/750370058/W%25C3%25BCrth+Elektronik+Midcom/view-part/?ref=eda"
-			(at 161.29 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "b0f260e0-376c-4cc5-9fac-38518452a222")
-		)
-		(pin "6"
-			(uuid "fc1a0512-8b2d-4deb-99f4-357779972748")
-		)
-		(pin "5"
-			(uuid "65b3264c-c00e-4834-b695-22543681206e")
-		)
-		(pin "1"
-			(uuid "c2b9fedc-5745-4f47-9a33-abd9478e1a0a")
-		)
-		(pin "4"
-			(uuid "99cf188a-c982-4db8-8d94-3aac3d906019")
-		)
-		(pin "8"
-			(uuid "471b9f59-736f-4c79-9fa7-b64ecfdd074d")
-		)
-		(pin "2"
-			(uuid "f963117e-6e32-437c-8842-64c40255293b")
-		)
-		(pin "7"
-			(uuid "4820fada-20f6-4619-a4ec-30788ed355b6")
-		)
-		(instances
-			(project ""
-				(path "/adebfd2e-8582-429a-97ef-8efe6eae2505"
-					(reference "T1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 247.65 251.46 180)
 		(unit 1)
@@ -16381,7 +16254,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4.7k Ohm"
+		(property "Value" "2.2k Ohm"
 			(at 284.48 74.9299 0)
 			(effects
 				(font
@@ -20190,7 +20063,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4.7k Ohm"
+		(property "Value" "2.2k Ohm"
 			(at 278.13 80.0099 0)
 			(effects
 				(font
@@ -20684,7 +20557,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SMA_Handsoldering"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 130.81 52.705 0)
 			(effects
 				(font
@@ -22924,6 +22797,93 @@
 			(project ""
 				(path "/adebfd2e-8582-429a-97ef-8efe6eae2505"
 					(reference "#PWR023")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "7491195112:WE-POEH_EPQ13")
+		(at 161.29 45.72 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b7d35ca9-68f6-43f2-929f-cb97cff1b4eb")
+		(property "Reference" "T2"
+			(at 161.6712 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "WE-POEH_EPQ13"
+			(at 161.6712 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "7491195112:WE-POEH_EPQ13"
+			(at 161.29 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 161.29 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 161.29 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "10"
+			(uuid "6ad5174e-c3ce-4fec-9eca-05888a710a86")
+		)
+		(pin "6"
+			(uuid "6d0d1f60-0504-4f50-ae87-c17fa814e4a7")
+		)
+		(pin "9"
+			(uuid "938954a2-0fa7-4c9c-8d32-13fc911180cc")
+		)
+		(pin "1"
+			(uuid "39e4caa2-ef7d-4ac2-b3c0-dd768e665642")
+		)
+		(pin "3"
+			(uuid "a83e64db-1fed-4fb0-9940-c2051617fd10")
+		)
+		(pin "5"
+			(uuid "97b8c48f-be64-4b77-b109-95e40f1f80b1")
+		)
+		(pin "4"
+			(uuid "742a3d9a-4b98-4660-85f8-8bbdb415c461")
+		)
+		(pin "7"
+			(uuid "9f0e6aa3-9092-4f9d-bd48-563686f6b746")
+		)
+		(instances
+			(project ""
+				(path "/adebfd2e-8582-429a-97ef-8efe6eae2505"
+					(reference "T2")
 					(unit 1)
 				)
 			)
