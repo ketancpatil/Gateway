@@ -1,0 +1,8 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"J1","Conn_01x02_Pin","JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical",92.400000,-132.575000,180.000000,top
+"J2","Conn_01x02_Pin","JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical",89.920000,-124.390000,0.000000,top
+"J3","Conn_01x02_Pin","JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical",105.130000,-124.405000,0.000000,top
+"J4","Conn_01x02_Pin","JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical",107.660000,-132.620000,180.000000,top
+"R1","1k Ohm","R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",77.970000,-129.910000,90.000000,top
+"R2","1k Ohm","R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",100.990000,-127.130000,-90.000000,top
+"R3","1k Ohm","R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",117.080000,-127.100000,-90.000000,top

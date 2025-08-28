@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CDSOD323_T36SC'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Bourns", "CDSOD323-T36SC" (!) = "", "SOD2513X114N", "Small Outline Diode", "652-CDSOD323-T36SC", "https://www.mouser.co.uk/ProductDetail/Bourns/CDSOD323-T36SC?qs=oyIm%2F3giSj6DNSRMtrXOsA%3D%3D", "BOURNS - CDSOD323-T36SC - DIODE, TVS, BI, 500W, 36V, SOD-323", "https://www.bourns.com/docs/Product-Datasheets/CDSOD323-TxxSC.pdf", "1.14 mm"
+END_PART
+
+END.

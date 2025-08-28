@@ -1,0 +1,5 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"D1","LED","LED_D3.0mm_Clear",82.610000,-125.830000,-90.000000,bottom
+"D2","LED","LED_D3.0mm_Clear",97.670000,-125.860000,-90.000000,bottom
+"D3","LED","LED_D3.0mm_Clear",112.910000,-125.830000,-90.000000,bottom
+"JP1","Jumper_2_Open","SW_SPST_CK_RS282G05A3",121.850000,-131.690000,180.000000,bottom

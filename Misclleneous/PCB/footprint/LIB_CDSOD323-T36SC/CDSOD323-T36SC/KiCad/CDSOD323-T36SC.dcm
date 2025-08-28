@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CDSOD323-T36SC
+D BOURNS - CDSOD323-T36SC - DIODE, TVS, BI, 500W, 36V, SOD-323
+K
+F https://www.bourns.com/docs/Product-Datasheets/CDSOD323-TxxSC.pdf
+$ENDCMP
+#
+#End Doc Library

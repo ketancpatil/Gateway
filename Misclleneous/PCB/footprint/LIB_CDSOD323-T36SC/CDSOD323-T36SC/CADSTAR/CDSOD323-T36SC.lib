@@ -1,0 +1,16 @@
+.CDSOD323-T36SC :1 ;BOURNS - CDSOD323-T36SC - DIODE, TVS, BI, 500W, 36V, SOD-323
+SOD2513X114N
+*STM D
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN CDSOD323-T36SC
+~!Mouser Part Number (652-CDSOD323-T36SC)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Bourns/CDSOD323-T36SC?qs=oyIm%2F3giSj6DNSRMtrXOsA%3D%3D)
+~!Manufacturer_Name (Bourns)
+~!Manufacturer_Part_Number (CDSOD323-T36SC)
+~!Link Datasheet (https://www.bourns.com/docs/Product-Datasheets/CDSOD323-TxxSC.pdf)
+~!Height (1.14mm)
+~!3D_Model (CDSOD323-T36SC)
+CDSOD323-T36SC
+1.1!U 2.1!U 

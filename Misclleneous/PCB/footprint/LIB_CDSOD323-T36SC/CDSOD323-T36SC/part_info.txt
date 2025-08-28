@@ -1,0 +1,9 @@
+Manufacturer=Bourns
+PartNumber=CDSOD323-T36SC
+PartCategory=TVS Diode (Bi-directional)
+PackageCategory=Small Outline Diode
+PinCount=2
+Version=3.1
+Released=2018-07-17 22:15:53
+Downloaded=2024-10-08 18:00:49
+3D=Y

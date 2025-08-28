@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_798225"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-07-17-22:15:53)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "CDSOD323-T36SC")
+)
+
+
+(pinAssign "ECS_798225"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-07-17-22:15:53)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_798225")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "CDSOD323-T36SC")
+)
+
+
+(part "CDSOD323-T36SC"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-07-17-22:15:53)
+    (utime 2023-03-07-16:10:32)
+    (packageRef "CDSOD323-T36SC")
+    (pinAssignRef "ECS_798225")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "D")
+    (property "description" "BOURNS - CDSOD323-T36SC - DIODE, TVS, BI, 500W, 36V, SOD-323")
+    (property "Mouser_Part_Number" "652-CDSOD323-T36SC")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Bourns/CDSOD323-T36SC?qs=oyIm%2F3giSj6DNSRMtrXOsA%3D%3D")
+    (property "Manufacturer_Name" "Bourns")
+    (property "Manufacturer_Part_Number" "CDSOD323-T36SC")
+    (property "Datasheet_Link" "https://www.bourns.com/docs/Product-Datasheets/CDSOD323-TxxSC.pdf")
+    (property "compAreaTopHeight" 1.14)
+)
+
+
